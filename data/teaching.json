@@ -1,11 +1,41 @@
 [
     {
-        "title":"Geometry 5555",
-        "years":"539 BC",
+        "title":"MATH:1005 College Algebra",
+        "years":"",
         "info":" accumsan in leo non, cursus lacinia urna. Etiam efficitur iaculis laoreet. In vitae mollis neque. Duis et feugiat arcu, ve"
     },
     {
-        "title":"Compass and Straight Edge 2330",
+        "title":"MATH:1340 Mathematics for Business",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1350 Quantitative Reasoning for Business",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1380 Calculus and Matrix Algebra for Business",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1440 Mathematics for the Biological Sciences",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1460 Calculus for the Biological Sciences",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1560 Engineering Mathematics II: Multivariable Calculus",
+        "years":"530 BC",
+        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+    },
+    {
+        "title":"MATH:1860 Calculus II",
         "years":"530 BC",
         "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
     }
