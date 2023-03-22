@@ -2,7 +2,7 @@
   --r-primary : #35304B;
   --r-background  : #FEFEFE;
   --r-font  : #1E1E26;
-  --r-font2   : #E31937;/*var(--r-primary);*/
+  --r-font2   : var(--r-font);
   --r-icons : var(--r-primary);
   --r-focus   : #253568;
   --r-border        : var(--r-primary);
