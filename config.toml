@@ -2,16 +2,16 @@ theme = "hugo-resume"
 languageCode = "en-us"
 
 title = "Zach Bryhtan"
-baseURL = "https://personal.mathgradboard.com/"
+baseURL = "https://bryhtan.github.io/"
 
 
 [params]
-address = "Metapontum Village, Italy"
-email = "Pythagoras@mathgradboard.com"
+address = "Iowa"
+email = "zachary-bryhtan@uiowa.edu"
 favicon = "/icon/favicon.ico"
-firstName = "Pythagoras"
-lastName = "of Samos"
-phone = "1-555-555-5555"
+firstName = "Zachary"
+lastName = "Bryhtan"
+phone = "1-800-SUH-DUDE"
 profileImage = "images/Pythagoras.jpeg"
 
 showEducation = true
@@ -27,11 +27,11 @@ showCertifications = false
 showBlog = true
 
 [[params.handles]]
-link = "https://www.linkedin.com/"
+link = "https://www.linkedin.com/in/zachary-bryhtan/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/uiowa-mgb"
+link = "https://github.com/bryhtan/"
 name = "GitHub"
 
 
