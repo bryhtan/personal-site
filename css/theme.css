@@ -1,7 +1,7 @@
 :root {
-  --r-primary : #ff5555;
-  --r-background  :#282a36;
-  --r-font  :#f8f8f2;
+  --r-primary : #35304B;
+  --r-background  :#FBFAF5;
+  --r-font  :#1E1E26;
   --r-font2   : var(--r-primary);
   --r-icons : var(--r-primary);
   --r-focus   : #d5654d;
