@@ -7,3 +7,7 @@
   --r-focus   : #253568;
   --r-border        : var(--r-primary);
 }
+
+#sideNav {
+  --r-font  :#FEFEFE;
+}
