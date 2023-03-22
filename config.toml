@@ -12,7 +12,7 @@ favicon = "/icon/favicon.ico"
 firstName = "Zachary"
 lastName = "Bryhtan"
 phone = "1-800-SUH-DUDE"
-profileImage = "images/Pythagoras.jpeg"
+profileImage = "images/Zach.jpeg"
 
 showEducation = true
 showTeaching = true
