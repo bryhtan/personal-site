@@ -1,15 +1,23 @@
 [
+    
     {
-        "school":"[Hermodamas of Samos](https://en.wikipedia.org/w/index.php?title=Hermodamas_of_Samos&action=edit&redlink=1)",
-        "degree":"facilisis libero",
-        "major":"tellus sit amet pulvinar",
-        "notes":"Cras vestibulum lectus elit",
-        "range":"595 BC - 590 BC"
+        "school":"[University of Iowa](https://uiowa.edu/",
+        "degree":"Doctor of Philosophy",
+        "major":"Mathematics",
+        "notes":"Expected May 2023",
+        "range":"August 2019-Current"
     },
     {
-        "school":"[Pherecydes of Syros](https://en.wikipedia.org/wiki/Pherecydes_of_Syros)",
-        "degree":"Maecenas tempus felis",
-        "major":"Quisque consectetur",
-        "range":"595 BC - 590 BC"
+        "school":"[University of Iowa](https://uiowa.edu/",
+        "degree":"Master of Science",
+        "major":"Mathematics",
+        "range":"August 2019-May 2021"
+    },
+    {
+        "school":"[University of Wisconsin Parkside](https://www.uwp.edu/",
+        "degree":"Bachelor of Science",
+        "major":"Mathematics and Physics",
+        "notes":"Completed Minor in French",
+        "range":"August 2014-May 2019"
     }
 ]
