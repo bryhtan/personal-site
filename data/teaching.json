@@ -7,36 +7,36 @@
     {
         "title":"MATH:1340 Mathematics for Business",
         "years":"",
-        "info":" 'Algebraic techniques, functions and functional models, exponential and logarithmic functions and models, linear programming, informal introduction to calculus; examples and applications from management, economic sciences, related areas.' "
+        "info":" ''Algebraic techniques, functions and functional models, exponential and logarithmic functions and models, linear programming, informal introduction to calculus; examples and applications from management, economic sciences, related areas.'' "
     },
     {
         "title":"MATH:1350 Quantitative Reasoning for Business",
         "years":"",
-        "info":"Algebraic techniques and modeling; quantitative methods for treating problems that arise in management and economic sciences; topics include algebra techniques, functions and functional models, exponential and logarithmic functions and models, and a thorough introduction to differential calculus; examples and applications from management, economic sciences, and related areas."
+        "info":" ''Algebraic techniques and modeling; quantitative methods for treating problems that arise in management and economic sciences; topics include algebra techniques, functions and functional models, exponential and logarithmic functions and models, and a thorough introduction to differential calculus; examples and applications from management, economic sciences, and related areas.'' "
     },
     {
         "title":"MATH:1380 Calculus and Matrix Algebra for Business",
-        "years":"530 BC",
-        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+        "years":"",
+        "info":" ''Quantitative methods for treating problems arising in management, economic sciences, related areas; introduction to differential and integral calculus, systems of linear equations and matrix operations.'' "
     },
     {
         "title":"MATH:1440 Mathematics for the Biological Sciences",
-        "years":"530 BC",
-        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+        "years":"",
+        "info":" ''Relations, functions, coordinate systems, graphing, polynomials, trigonometric functions, logarithmic and exponential functions; discrete mathematics, probability; examples and applications from biological sciences.'' "
     },
     {
         "title":"MATH:1460 Calculus for the Biological Sciences",
-        "years":"530 BC",
-        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+        "years":"",
+        "info":" ''One-semester survey of calculus for students in biological or life sciences; nontheoretical treatment of differential and integral calculus; brief introduction to differential equations and probability with calculus, with applications to the life sciences.'' "
     },
     {
         "title":"MATH:1560 Engineering Mathematics II: Multivariable Calculus",
-        "years":"530 BC",
-        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+        "years":"",
+        "info":" ''Vector geometry; functions of several variables; polar coordinates; partial derivatives, gradients, directional derivatives; tangent lines and planes; max/min/parametric curves, curvilinear motion; multiple integrals; vector fields, flows; integration on curves, work; divergence, flux, Green's theorem.'' "
     },
     {
         "title":"MATH:1860 Calculus II",
-        "years":"530 BC",
-        "info":"Etiam fermentum finibus pulvinar. Praesent dictum libero est, sit amet volutpat tellus dapibus et. Sed at semper risus. Duis turpis lorem, e"
+        "years":"",
+        "info":" ''Techniques of integration including by-parts, trigonometric Integrals, trigonometric substitutions, partial fractions, improper integrals; applications (i.e., arclength), area surfaces of revolutions, application to physics; introduction to differential equations; parametric equations and polar coordinates; infinite sequences and series, convergence tests, power series, Taylor polynomials and series.'' "
     }
 ]
