@@ -1,7 +1,7 @@
 ---
 title: 'A Guide to Conway Notation'
 date: Wed, 29 Mar 2023 12:33:00 +0000
-draft: true
+draft: false
 featured: true
 tags: [tangle, knot, notation]
 ---
