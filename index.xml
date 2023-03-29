@@ -36,6 +36,15 @@ A pdf PreviousNextPreviousNext&amp;nbsp;&amp;nbsp;Page: / Some text Pellen
     </item>
     
     <item>
+      <title>A Guide to Conway Notation</title>
+      <link>https://bryhtan.github.io/blog/guide_to_conway/</link>
+      <pubDate>Wed, 29 Mar 2023 12:33:00 +0000</pubDate>
+      
+      <guid>https://bryhtan.github.io/blog/guide_to_conway/</guid>
+      <description>I first encountered J. Conway&amp;rsquo;s notation for knots the way I imagine most people do, by reading his original article &amp;ldquo;An enumeration of knots and links, and some of their algebraic properties.&amp;rdquo; While this was sufficient for a basic understanding, I found that the notation had evolved somewhat since 1970. I could not find a single convenient source covering common conventions, or the extensions discussed by A. Caudron in his paper &amp;ldquo;Classification des noeuds et des enlacements&amp;rdquo; (written completely in French).</description>
+    </item>
+    
+    <item>
       <title>Atlassian Marketplace Plugins</title>
       <link>https://bryhtan.github.io/projects/personal/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
