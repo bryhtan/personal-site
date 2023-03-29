@@ -14,4 +14,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-Some blog stuff
+Here you will find a spattering of things that I have done, seen, or thought about which may or may not be math related.
