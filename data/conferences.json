@@ -1,17 +1,17 @@
 [
     {
-        "conference":"Lorem ipsum dolor sit",
-        "years":"2003",
-        "info":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac aliquam ipsum, quis sagittis dolor. Sed tincidunt justo turpis, in rutrum massa dignissim vel. In laoreet nisi lorem, non aliquam nibh tempor ac."
+        "conference":"8th Mexican Workshop on Applied Geometry and Topology",
+        "years":"2022",
+        "info":"Workshop over several days with talks covering topics including applications of topology to biology and algebraic geometry to statistics. See more [here](https://8mwgeometrytopology.eventos.cimat.mx/home_8mwtopology)."
     },
     {
-        "conference":"Vestibulum elementum arcu",
-        "years":"2003, 2004",
-        "info":"Vestibulum elementum arcu id purus viverra vehicula. Pellentesque ac arcu molestie, congue magna quis, cursus risus. Aenean arcu purus, pharetra ac metus et, finibus egestas turpis."
+        "conference":"Topological Data Visualization Workshop",
+        "years":"2022",
+        "info":"Workshop over several days with talks covering applications of topological data analysis in many disciplines. See more [here](https://homepage.divms.uiowa.edu/~idarcy/CONF/TDV.html)."
     },
     {
-        "conference":"Nullam malesuada dui",
-        "years":"2009, 2020",
-        "info":"Nullam malesuada dui iaculis, aliquam nulla quis, elementum dolor."
+        "conference":"University of Wisconsin System Research in the Rotunda",
+        "years":"2019",
+        "info":"Undergraduate students gather to present research they are doing in many areas of science. See more [here](https://www.wisconsin.edu/research-in-the-rotunda)."
     }
 ]
