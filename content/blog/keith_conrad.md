@@ -1,6 +1,6 @@
 ---
 title: 'Need Helpful Math Papers?'
-date: Wed, 19Apr 2023 13:17:00 +0000
+date: Wed, 19 Apr 2023 13:17:00 +0000
 draft: false
 featured: true
 tags: [resource, math]
